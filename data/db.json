@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "Author": "J. R. R. Tolkien",
+      "Name": "The Lord of the Rings",
+      "Year": "1954",
+      "Price": "40",
+      "id": "yxm2Q6HFCEg4icW3L1Jyy"
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "example2@email.com",
+      "password": "$2b$10$R9EpY7agY11waYrk7J5.EuoKI3Ie2Cvitv2GvOP9l7A.bJR0GlZBG",
+      "id": "RqAWib2jS4ebi3F2Hx-OK"
+    }
+  ],
+  "orders": [
+    {
+      "itemId": "1hV0lvRcWfSUUysq67LkU",
+      "qtt": "1",
+      "price": "40",
+      "totalPrice": 40,
+      "id": "1hV0lvRcWfSUUysq67LkU"
+    }
+  ]
+}
